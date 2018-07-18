@@ -2,6 +2,7 @@
   "name": "vue-dev-generator-cli",
   "version": "0.0.4",
   "description": "The command tool for generating something",
+  "author": "suzhen <leslie43@sina.com>",
   "bin": {
     "epro": "./bin/start"
   },
