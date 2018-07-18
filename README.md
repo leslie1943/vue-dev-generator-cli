@@ -28,7 +28,10 @@ version 3+ and [Git](https://git-scm.com/).
 
 ```bash
 $ npm install vue-dev-generator-cli -g
+
 or
+
+cd your application
 $ npm install vue-dev-generator-cli -D
 
 ```
