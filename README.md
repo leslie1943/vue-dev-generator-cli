@@ -28,6 +28,9 @@ version 3+ and [Git](https://git-scm.com/).
 
 ```bash
 $ npm install vue-dev-generator-cli -g
+or
+$ npm install vue-dev-generator-cli -D
+
 ```
 
 ### Generate pages / components / api / vuex store module to project
