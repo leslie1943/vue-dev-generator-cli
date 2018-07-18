@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+// run in local: node ./bin/start g
+
+const program = require('commander');
+const pkg = require('../package.json');
+
+const generateCli = require('../lib/generate');
+
+program.version(pkg.version)
+  .option('generate', 'generate template')
+  .option('g', 'generate template')
+  .parse(process.argv);
+
+if (program.generate || program.g) {
+  generateCli(process.argv);
+}
