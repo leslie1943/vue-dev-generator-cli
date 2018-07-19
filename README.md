@@ -4,7 +4,7 @@
 
 <!-- badges section. -->
 
-[![npm package](https://www.vue-js.com//public/images/vue.png)](https://github.com/vuejs/vue-cli)
+[![npm package](https://www.runoob.com/wp-content/uploads/2017/01/vue.png)](https://github.com/vuejs/vue-cli)
 
 ## Feature
 
