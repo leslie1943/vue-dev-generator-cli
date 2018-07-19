@@ -1,17 +1,16 @@
-# Generator for Vue develop
+# Generator for Vue develop easier.
 
 ### A simple CLI for vue projects.
 
 <!-- badges section. -->
 
-[![npm package](https://cn.vuejs.org/images/logo.png)](https://github.com/vuejs/vue-cli)
+[![npm package](https://www.vue-js.com//public/images/vue.png)](https://github.com/vuejs/vue-cli)
 
 ## Feature
 
-* Standard VH EPro template.
+* Standard VH EPRO template.
 * Interactive command line.
 * Common pages & components & api & vuex store module template.
-<!-- * Support [prettier-eslint](https://github.com/prettier/prettier-eslint) -->
 
 ## Usage
 
@@ -24,7 +23,6 @@ $ epro --version
 ### Installation
 
 Prerequisites: [Node.js](https://nodejs.org/en/) (>=6.x, 8.x preferred), npm
-version 3+ and [Git](https://git-scm.com/).
 
 ```bash
 $ npm install vue-dev-generator-cli -g
@@ -46,13 +44,13 @@ $ epro g
 ### CHANGELOG
 
 #### 0.0.6
-* 注释修正
+* change page/component scss class automatically
 
 #### 0.0.5
-* 注释修正
+* Fix comments
 
 #### 0.0.4
-* 注释修正
+* Fix comments
 
 #### 0.0.3
 * change follow Peijiang's suggestion.
