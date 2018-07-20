@@ -12,6 +12,9 @@
 * Interactive command line.
 * Common pages & components & api & vuex store module template.
 
+## Contact me
+[![mailto](leslie43@sina.com)]
+
 ## Usage
 
 ### Check version
@@ -42,6 +45,12 @@ $ epro g
 ```
 
 ### CHANGELOG
+
+#### 0.0.8
+* add contact
+
+#### 0.0.7
+* clean comments
 
 #### 0.0.6
 * change page/component scss class automatically
