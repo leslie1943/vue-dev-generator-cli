@@ -13,7 +13,7 @@
 * Common pages & components & api & vuex store module template.
 
 ## Contact me
-[![mailto](leslie43@sina.com)]
+* leslie43@sina.com
 
 ## Usage
 
