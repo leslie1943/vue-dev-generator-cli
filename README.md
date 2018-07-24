@@ -46,6 +46,12 @@ $ epro g
 
 ### CHANGELOG
 
+#### 0.0.10
+* validation empty input
+
+#### 0.0.9
+* change contact
+
 #### 0.0.8
 * add contact
 
