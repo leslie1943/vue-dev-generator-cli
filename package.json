@@ -1,6 +1,6 @@
 {
   "name": "vue-dev-generator-cli",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "The command tool for generating something",
   "author": "suzhen <leslie43@sina.com>",
   "bin": {
